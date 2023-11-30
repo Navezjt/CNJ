@@ -1,4 +1,4 @@
-name: update_m3u
+name: update_m3u 
 on:
   push:
     branches:
